@@ -14,6 +14,7 @@ This Flutter application is a simple yet beautifully designed **product search a
 - ✍️ **Google Fonts** — Stylish and clean typography using Google Fonts.
 - 🧠 **Bloc (Cubit)** — Light-weight and efficient state management.
 - 📱 **Responsive Layout** — Works on multiple screen sizes and orientations.
+- ✨ Shimmer Effect — Provides a smooth and dynamic loading experience when data is being fetched.
 
 ---
 
@@ -28,5 +29,5 @@ This Flutter application is a simple yet beautifully designed **product search a
 
 ---
 
-## 📁 Folder Structure
+
 
