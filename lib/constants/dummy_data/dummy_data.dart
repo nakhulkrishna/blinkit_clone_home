@@ -2,6 +2,8 @@ import 'package:clone_blinkit/models/category_model.dart' show CategoryModel;
 import 'package:clone_blinkit/models/product_model.dart';
 
 class DummyData {
+
+  //* CATEGORY DUMMY DATAS
   List<CategoryModel> dummyCategories = [
     CategoryModel(
       categoryName: "Fruits & Veggies",
@@ -64,6 +66,8 @@ class DummyData {
       ],
     ),
   ];
+
+  //* PROUCTS DUMMY DATAS 
   final List<ProductModel> dummyProducts = [
     ProductModel(
       name: "Prestige Apex 3 Jar 500w Mixer",

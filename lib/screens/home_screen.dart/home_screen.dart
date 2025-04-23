@@ -121,7 +121,7 @@ class _HomeScreenState extends State<HomeScreen>
   }
 }
 
-// AppBar
+//* AppBar
 class _SliverAppBarDelegate extends SliverPersistentHeaderDelegate {
   _SliverAppBarDelegate(this._tabBar, this.screenWidth, this.screenHeight);
 

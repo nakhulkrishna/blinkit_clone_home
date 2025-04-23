@@ -9,5 +9,5 @@ class CategoryModel {
 
     required this.numberOfProducts,
     required this.imageUrls,
-  }) : assert(imageUrls.length == 4, 'Exactly 4 images must be provided');
+  }) : assert(imageUrls.length == 4);
 }
