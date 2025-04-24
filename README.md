@@ -29,5 +29,17 @@ This Flutter application is a simple yet beautifully designed **product search a
 
 ---
 
+ ## 🚀 How to Run the App
+
+  ## Clone the Repository
+   - git clone https://github.com/your-username/blinkit-clone.git
+   - cd blinkit-clone
+
+  ## Install Dependencies
+   - flutter pub get
+  ## Run the App
+   - flutter run
 
 
+
+  
