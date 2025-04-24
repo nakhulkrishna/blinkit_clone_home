@@ -41,9 +41,9 @@ This Flutter application is a simple yet beautifully designed **product search a
    - flutter run
 
    ### 🏠 Home Screen
-  ![Home banner](assets/images/home screen banner.jpg)
-  ![Home screen](assets/images/home screen.jpg)
-  ![Home search](assets/images/search screen.jpg)
+  ![Home banner](assets/images/home_screen_banner.jpg)
+  ![Home screen](assets/images/home_screen.jpg)
+  ![Home search](assets/images/search_screen.jpg)
 
 
 
